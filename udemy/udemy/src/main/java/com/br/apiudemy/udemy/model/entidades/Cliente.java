@@ -1,4 +1,4 @@
-package model.entidades;
+package com.br.apiudemy.udemy.model.entidades;
 
 public class Cliente {
 

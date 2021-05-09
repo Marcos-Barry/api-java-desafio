@@ -1,4 +1,4 @@
-package controllers;
+package com.br.apiudemy.udemy.controller;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
